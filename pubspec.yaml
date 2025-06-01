@@ -1,6 +1,6 @@
-name: results
-description: A starting point for Dart libraries or applications.
-version: 1.0.2
+name: dart_result
+description: A Future Aware Result class to grcefully handle success and error and their Futures without the need to await on each callback.
+version: 1.0.0
 repository: https://github.com/fahidsarker/dart_results
 
 environment:

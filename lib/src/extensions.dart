@@ -1,4 +1,4 @@
-part of 'results.dart';
+part of 'result.dart';
 
 typedef FtrResult<S, E> = Future<Result<S, E>>;
 typedef FtrSuccess<S, E> = Future<Result<S, E>>;
