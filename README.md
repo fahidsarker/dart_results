@@ -1,4 +1,34 @@
-# results
+<h1 align="center">resultX</h1>
+
+<br />
+
+  <p align="center">
+    A Future Aware Result class to grcefully handle success and error and their Futures without the need to await on each step. It focuses on functional usage and method chaining to handle the results.
+    <br />
+    <!-- Put the link for the documentation here -->
+    <a href="https://pub.dev/documentation/resultx/latest/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <!-- Disable unused links with with comments -->
+    <a href="https://github.com/fahidsarker/dart_results/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/fahidsarker/dart_results/pulls">Request Feature</a>
+  </p>
+
+<br>
+
+<div align='center'>
+
+
+[![Pub Points](https://img.shields.io/pub/points/resultx?label=pub%20points&style=plastic)](https://pub.dev/packages/resultx/score)
+[![Pub Points](https://img.shields.io/pub/v/resultx)](https://img.shields.io/pub/v/resultx)
+[![Pub Points](https://img.shields.io/pub/dm/resultx)](https://img.shields.io/pub/dm/resultx)
+
+</div>
+
+<br>
+
+# resultx
 A dart `Future` aware, functional (FP) `result` package to handle success and error inspired by kotlin's `Result` class and `Either` class.
 
 ## Features
