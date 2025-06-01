@@ -1,8 +1,9 @@
 # results
-A dart `Future` aware `result` package to handle success and error inspired by kotlin's `Result` class.
+A dart `Future` aware, functional (FP) `result` package to handle success and error inspired by kotlin's `Result` class and `Either` class.
 
 ## Features
 - A `Result` class that can be either a `Success` or an `Error`.
+- Focuses on functional programing and handeling of Results instead of imperative programing.
 - A `Future` aware `Result` class that can be either a `Success` or an `Error`.
   - `Feature aware` means you can keep on chaining callbacks and mapping methods `without` the need to `await` on each callback.
   - e.g. `asyncResult.mapSuccess((data) => data.length).mapSuccess((len) => len > 5)` 

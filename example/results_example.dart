@@ -1,4 +1,4 @@
-import 'package:dart_result/dart_result.dart';
+import 'package:resultx/resultx.dart';
 
 class User {
   final String name;
